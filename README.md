@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there I'm Allie (SixAiy) 👋
+I am a Backend Developer working for [BladeNode](https://bladenode.com) and Magic Dust Crypto Currency. On my free time I make bots on different platforms (Mainly Discord). I am also a Verified Bot Developer and I also like to work with friends on projects. 
 
-<!--
-**SixAiy/sixaiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GensokyoBot](https://gensokyobot.com) | [SentCord](https://sentcord.com) | [New Lantean Stargate Network](https://thenlsn.com)
+
+## Github Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SixAiy&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SixAiy&layout=compact)]
