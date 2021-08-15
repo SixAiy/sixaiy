@@ -1,10 +1,9 @@
-### Hi there I'm Allie (SixAiy) 👋
-I am a Backend Developer working for [BladeNode](https://bladenode.com) and Magic Dust Crypto Currency. On my free time I make bots on different platforms (Mainly Discord). I am also a Verified Bot Developer and I also like to work with friends on projects. 
-
+### Hi there I'm Allie | アリー 👋
+I am a Backend Developer working for [SixAiy Co.](https://sixaiy.com), [BladeNode](https://bladenode.com) and Magic Dust Crypto Currency. On my free time I play games like [Minecraft](https://minecraft.net), [New World](https://newworld.com) and [American Truck Simulator](https://store.steampowered.com/app/270880/American_Truck_Simulator/). I am also a Verified Bot Developer on Discord. 
 
 ## Projects
 
-[GensokyoBot](https://gensokyobot.com) | [SentCord](https://sentcord.com) | [New Lantean Stargate Network](https://thenlsn.com)
+[SixAiy Co.](https://sixaiy.com) | [GensokyoBot](https://gensokyobot.com) | [SentCord](https://sentcord.com) | [New Lantean Stargate Network](https://thenlsn.com)
 
 ## Github Stats
 
