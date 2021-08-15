@@ -3,7 +3,7 @@ I am a Backend Developer working for [SixAiy Co.](https://sixaiy.com), [BladeNod
 
 ## Projects
 
-[SixAiy Co.](https://sixaiy.com) | [GensokyoBot](https://gensokyobot.com) | [SentCord](https://sentcord.com) | [New Lantean Stargate Network](https://thenlsn.com)
+[SixAiy Co.](https://sixaiy.com) | [GensokyoBot](https://gensokyobot.com) | [SentCord](https://sentcord.com) | [The NLSN](https://thenlsn.com)
 
 ## Github Stats
 
