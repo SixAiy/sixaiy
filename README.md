@@ -1,8 +1,8 @@
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://sixaiy.com/)
 [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](https://sixaiy.com/)
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://sixaiy.com/)
-[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://sixaiy.com/)
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://sixaiy.com/)
+
 [![Support Server](https://img.shields.io/discord/269896638628102144.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/C3vRDBU5kR)
 
 ### Hi there I'm Allie | アリー 👋
