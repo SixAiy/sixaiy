@@ -14,6 +14,7 @@ On my free time I play games like [World of Warcraft](https://worldofwarcraft.co
 
 
 ## Stats
+[![Support Server](https://img.shields.io/discord/269896638628102144.svg?color=7289da&label=The SixAiy Company&logo=discord&style=flat-square)](https://discord.gg/C3vRDBU5kR)
 [![Support Server](https://img.shields.io/discord/269896638628102144.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/C3vRDBU5kR)
 (https://sixaiy.com)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SixAiy&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
