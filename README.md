@@ -7,7 +7,9 @@ On my free time I play games like [World of Warcraft](https://worldofwarcraft.co
 
 ## Projects
 [The SixAiy Company](https://sixaiy.com) [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://npm.js.org) 
+
 [GensokyoBot](https://gensokyobot.com) [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://npm.js.org) 
+
 [NLSN](https://thenlsn.com) [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://npm.js.org) 
 
 
