@@ -2,7 +2,6 @@
 [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](https://sixaiy.com/)
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://sixaiy.com/)
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://sixaiy.com/)
-
 ### Hi there I'm Allie | アリー 👋
 Backend Developer working for [The SixAiy Company](https://sixaiy.com) and [BladeNode](https://bladenode.com). 
 
