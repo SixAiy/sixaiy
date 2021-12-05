@@ -1,6 +1,7 @@
 ### Hi there I'm Allie | アリー 👋
 Backend Developer working for [SixAiy Co.](https://sixaiy.com) and [BladeNode](https://bladenode.com). 
-On my free time I play games like [World of Warcraft](https://worldofwarcraft.com), [New World](https://newworld.com) and [Elite Dangerous](https://elitedangerous.com/). Early Verified Bot Developer on Discord. 
+
+On my free time I play games like [World of Warcraft](https://worldofwarcraft.com), [New World](https://newworld.com) and [Elite Dangerous](https://elitedangerous.com/). 
 
 ## Projects
 
