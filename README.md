@@ -6,11 +6,11 @@ Backend Developer working for [SixAiy Co.](https://sixaiy.com) and [BladeNode](h
 On my free time I play games like [World of Warcraft](https://worldofwarcraft.com), [New World](https://newworld.com) and [Elite Dangerous](https://elitedangerous.com/). 
 
 ## Projects
-[The SixAiy Company](https://sixaiy.com) [Npm](https://badgen.net/badge/icon/npm?icon=npm&label) | [GensokyoBot](https://gensokyobot.com) | [NLSN](https://thenlsn.com)
+[The SixAiy Company](https://sixaiy.com) [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)] | [GensokyoBot](https://gensokyobot.com) | [NLSN](https://thenlsn.com)
 
 
 ## Stats
-[![Discord](https://discord.com/widget?id=269896638628102144&theme=dark)]
+[![Discord](https://discord.com/widget?id=269896638628102144&theme=dark)](https://sixaiy.com)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SixAiy&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=SixAiy&theme=blue-green)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SixAiy&layout=compact)]
+[![github streak](https://github-readme-streak-stats.herokuapp.com/?user=SixAiy&theme=blue-green)](https://sixaiy.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SixAiy&layout=compact)](https://sixaiy.com)
