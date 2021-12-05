@@ -17,4 +17,4 @@ On my free time I play games like [World of Warcraft](https://worldofwarcraft.co
 
 [![github streak](https://github-readme-streak-stats.herokuapp.com/?user=SixAiy&theme=blue-green)](https://sixaiy.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SixAiy&layout=compact)](https://sixaiy.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SixAiy&layout=dracula)](https://sixaiy.com)
