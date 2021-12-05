@@ -10,7 +10,7 @@ On my free time I play games like [World of Warcraft](https://worldofwarcraft.co
 
 
 ## Stats
-<iframe src="https://discord.com/widget?id=269896638628102144&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+[![Discord](https://discord.com/widget?id=269896638628102144&theme=dark)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SixAiy&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SixAiy&layout=compact)]
