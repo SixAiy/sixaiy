@@ -7,7 +7,7 @@
 
 Contrary to popular belief I'm a Girl, Yes that's right a Girl Developer and Gamer Surprising right?
 
-Backend Developer working for [SixAiy Co.](https://sixaiy.com) and [BladeNode](https://bladenode.com). 
+Backend Developer working for [The SixAiy Company](https://sixaiy.com) and [BladeNode](https://bladenode.com). 
 
 On my free time I play games like [World of Warcraft](https://worldofwarcraft.com), [New World](https://newworld.com) and [Elite Dangerous](https://elitedangerous.com/). 
 
