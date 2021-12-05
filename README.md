@@ -4,9 +4,6 @@
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://sixaiy.com/)
 
 ### Hi there I'm Allie | アリー 👋
-
-Contrary to popular belief I'm a Girl, Yes that's right a Girl Developer and Gamer Surprising right?
-
 Backend Developer working for [The SixAiy Company](https://sixaiy.com) and [BladeNode](https://bladenode.com). 
 
 On my free time I play games like [World of Warcraft](https://worldofwarcraft.com), [New World](https://newworld.com) and [Elite Dangerous](https://elitedangerous.com/). 
