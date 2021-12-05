@@ -6,7 +6,9 @@ Backend Developer working for [SixAiy Co.](https://sixaiy.com) and [BladeNode](h
 On my free time I play games like [World of Warcraft](https://worldofwarcraft.com), [New World](https://newworld.com) and [Elite Dangerous](https://elitedangerous.com/). 
 
 ## Projects
-[The SixAiy Company](https://sixaiy.com) [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)] | [GensokyoBot](https://gensokyobot.com) | [NLSN](https://thenlsn.com)
+[The SixAiy Company](https://sixaiy.com) [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://npm.js.org) 
+[GensokyoBot](https://gensokyobot.com) [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://npm.js.org) 
+[NLSN](https://thenlsn.com) [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://npm.js.org) 
 
 
 ## Stats
