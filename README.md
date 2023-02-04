@@ -3,7 +3,7 @@
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://me.sixaiy.com/)
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://me.sixaiy.com/)
 ### Hi there I'm Allie | アリー 👋
-Backend Developer: [BladeNode Web Hosting](https://bladenode.com). 
+Chief Development Officer for [BladeNode Web Hosting](https://bladenode.com) & [IONerd Holdings, LLC](https://ionerdholdings.com)
 
 On my free time I play games like [World of Warcraft](https://worldofwarcraft.com), [Stellaris](https://www.paradoxinteractive.com/games/stellaris/about) and [Elite Dangerous](https://elitedangerous.com/). 
 
